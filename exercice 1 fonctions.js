@@ -17,7 +17,7 @@ function addition3NumbersWithArg(firstNumber, secondNumber, thirdNumber){
     let sum = firstNumber + secondNumber + thirdNumber
     console.log(`Le résultat de la somme est`, sum);
 }
-addition3NumbersWithArg(1, 2, 3); 
+addition3NumbersWithArg(2, 3, 3); 
 
 
 //3 fois avec des valeurs d’argument différentes
